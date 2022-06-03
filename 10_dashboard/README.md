@@ -16,3 +16,5 @@ Tableau
 построение дашбордов
 
 ## Ссылка на дашборд
+
+https://public.tableau.com/app/profile/kirill2349/viz/project_10_dashboard/dashboard?publish=yes
