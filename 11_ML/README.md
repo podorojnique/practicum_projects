@@ -12,4 +12,4 @@
 * Scikit-learn
 * Matplotlib
 * Seaborn
-* машинное обучени
+* машинное обучениe
