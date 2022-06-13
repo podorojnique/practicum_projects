@@ -1,12 +1,11 @@
 # practicum_projects
 
+<p align=center>
 <center><h1>Яндекс.Практикум / Анализ данных / Проекты</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://sun9-79.userapi.com/impf/xZpU-hlLA2D9nJyOgzdpzuYkhtS0DXo1UrQnXg/ROQJjyeeUl0.jpg?size=968x480&quality=96&sign=5f1a5cbb8e049e2e27352abc9539b518&type=share"></a><br><br>
-<p align=center>
+
 Репозитарий, содержащий проекты, выполненные в ходе прохождения курса "Аналитик данных" на <a href="https://praktikum.yandex.ru/">Яндекс.Практикуме</a><br>
 </p><br>
-
-Проекты, выполненные в ходе обучения в Яндекс.Практикуме по курсу "Аналитик данных" / Projects completed during the course "Data Analyst" at Yandex.Practicum
 
 | Название проекта | Описание | Инструменты и библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
