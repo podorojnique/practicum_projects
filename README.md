@@ -1,6 +1,6 @@
 # practicum_projects
 
-<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<center><h1>Яндекс.Практикум / Анализ данных / Проекты</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://sun9-79.userapi.com/impf/xZpU-hlLA2D9nJyOgzdpzuYkhtS0DXo1UrQnXg/ROQJjyeeUl0.jpg?size=968x480&quality=96&sign=5f1a5cbb8e049e2e27352abc9539b518&type=share"></a><br><br>
 
 
