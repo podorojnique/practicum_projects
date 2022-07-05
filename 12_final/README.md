@@ -40,4 +40,7 @@ SQL запросы:
 * проверка статистических гипотез
 * A/B-тест
 
+## Ссылка на дашборд:
+https://public.tableau.com/app/profile/kirill2349/viz/final_dashboard_16557166438710/Dashboard1?publish=yes
+
 ## Статус проекта: завершен
